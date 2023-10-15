@@ -1,0 +1,17 @@
+D:\CalculatorNadya\CalculatorNadya\bin\Debug\net6.0-windows\CalculatorNadya.exe
+D:\CalculatorNadya\CalculatorNadya\bin\Debug\net6.0-windows\CalculatorNadya.deps.json
+D:\CalculatorNadya\CalculatorNadya\bin\Debug\net6.0-windows\CalculatorNadya.runtimeconfig.json
+D:\CalculatorNadya\CalculatorNadya\bin\Debug\net6.0-windows\CalculatorNadya.dll
+D:\CalculatorNadya\CalculatorNadya\bin\Debug\net6.0-windows\CalculatorNadya.pdb
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.csproj.AssemblyReference.cache
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.Form1.resources
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.csproj.GenerateResource.cache
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.GeneratedMSBuildEditorConfig.editorconfig
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.AssemblyInfoInputs.cache
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.AssemblyInfo.cs
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.csproj.CoreCompileInputs.cache
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.dll
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\refint\CalculatorNadya.dll
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.pdb
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\CalculatorNadya.genruntimeconfig.cache
+D:\CalculatorNadya\CalculatorNadya\obj\Debug\net6.0-windows\ref\CalculatorNadya.dll

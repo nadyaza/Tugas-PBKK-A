@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-android": {},
+    "net7.0-ios": {},
+    "net7.0-maccatalyst": {},
+    "net7.0-windows10.0.19041": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0-android": [],
+    "net7.0-ios": [],
+    "net7.0-maccatalyst": [],
+    "net7.0-windows10.0.19041": []
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Pemrograman-Berbasis-Kerangka-Kerja-main\\Pemrograman-Berbasis-Kerangka-Kerja-main\\MauiMobileApp1\\MauiMobileApp1.csproj",
+      "projectName": "MauiMobileApp1",
+      "projectPath": "D:\\Pemrograman-Berbasis-Kerangka-Kerja-main\\Pemrograman-Berbasis-Kerangka-Kerja-main\\MauiMobileApp1\\MauiMobileApp1.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Pemrograman-Berbasis-Kerangka-Kerja-main\\Pemrograman-Berbasis-Kerangka-Kerja-main\\MauiMobileApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-android",
+        "net7.0-ios",
+        "net7.0-maccatalyst",
+        "net7.0-windows10.0.19041.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-android": {
+          "targetAlias": "net7.0-android",
+          "projectReferences": {}
+        },
+        "net7.0-ios": {
+          "targetAlias": "net7.0-ios",
+          "projectReferences": {}
+        },
+        "net7.0-maccatalyst": {
+          "targetAlias": "net7.0-maccatalyst",
+          "projectReferences": {}
+        },
+        "net7.0-windows10.0.19041": {
+          "targetAlias": "net7.0-windows10.0.19041.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-android": {
+        "targetAlias": "net7.0-android",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0-ios": {
+        "targetAlias": "net7.0-ios",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0-maccatalyst": {
+        "targetAlias": "net7.0-maccatalyst",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0-windows10.0.19041": {
+        "targetAlias": "net7.0-windows10.0.19041.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-android, net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}

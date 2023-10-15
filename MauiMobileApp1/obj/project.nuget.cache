@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEr0ifsq5LzdN5ZI7/52hX4hIoK3NUoyB9fO5d6gMpEWz+Ot7rlrUG87UHUvKT5QC+5rlCyf6iOLwO1cVkqgiA==",
+  "success": false,
+  "projectFilePath": "D:\\Pemrograman-Berbasis-Kerangka-Kerja-main\\Pemrograman-Berbasis-Kerangka-Kerja-main\\MauiMobileApp1\\MauiMobileApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-android, net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}
